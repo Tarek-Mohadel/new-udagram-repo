@@ -8,6 +8,7 @@
     "start": "ng serve",
     "build": "export SET NODE_OPTIONS=--openssl-legacy-provider&& ng build",
     "test": "export SET NODE_OPTIONS=--openssl-legacy-provider&& ng test",
+    "test1": "echo \"Error: no test specified\"",
     "lint": "ng lint",
     "e2e": "ng e2e",
     "deploy": "chmod +x bin/deploy.sh && bin/deploy.sh"
