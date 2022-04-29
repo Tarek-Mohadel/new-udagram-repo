@@ -28,6 +28,10 @@ jobs:
           name: back-end deploy
           command: |
             npm run backend:deploy
+      -run:
+          name: fix npm issue
+          command: |
+            npm install --legacy-peer-deps
       - run:
           name: front-end install
           command: |
