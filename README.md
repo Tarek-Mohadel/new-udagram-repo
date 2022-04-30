@@ -2,4 +2,4 @@
 http://myuniqueudagrambucket.s3-website-us-east-1.amazonaws.com
 
 # github repo link:
-https://github.com/Tarek-Mohadel/my-udagram-repo
+https://github.com/Tarek-Mohadel/new-udagram-repo
